@@ -19,3 +19,4 @@ Detects green and red objects by using color filter:
 
 
   - Object detection image result:
+![image](https://github.com/Watt-Berry/OpenCV/assets/109072703/32d3e0bb-d66e-4182-b8b2-1f5367cded3e)
