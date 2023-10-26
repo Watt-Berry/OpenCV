@@ -15,6 +15,7 @@ Detects green and red objects by using color filter:
   Results :
 
   - Green mask channel:
+![image](https://github.com/Watt-Berry/OpenCV/assets/109072703/ca548e21-3c00-4dcf-87f1-22dfc8a6603b)
 
 
   - Object detection image result:
