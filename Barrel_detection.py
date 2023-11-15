@@ -123,12 +123,12 @@ class BarrelDetection:
 
 if __name__ == '__main__':
     myBarrelDetection = BarrelDetection()
-while myBarrelDetection.flag == 1:
-    myBarrelDetection.get_center_coordinates()
+    while myBarrelDetection.flag == 1:
+        myBarrelDetection.get_center_coordinates()
 
-# Release the VideoCapture and close all OpenCV windows
-myBarrelDetection.video.release()
-cv2.destroyAllWindows()
+    # Release the VideoCapture and close all OpenCV windows
+    myBarrelDetection.video.release()
+    cv2.destroyAllWindows()
 
 
 
